@@ -1,4 +1,0 @@
-dwa
-===
-
-droidware access
